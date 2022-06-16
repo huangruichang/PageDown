@@ -1,0 +1,40 @@
+{
+  "name": "pagedown",
+  "authors": [
+    "Original Showdown code copyright (c) 2007 John Fraser",
+    "Original Markdown Copyright (c) 2004-2005 John Gruber <http://daringfireball.net/projects/markdown/>",
+    "Modifications and bugfixes (c) 2009 Dana Robinson",
+    "Modifications and bugfixes (c) 2009-2013 Stack Exchange Inc.",
+    "PageDown-Extra by Justin McManus <https://github.com/jmcmanus/pagedown-extra>",
+    "Ryan Billingsley <https://github.com/ryanbillingsley>"
+  ],
+  "description": "PageDown from the fine folks at StackExchange as well as PageDown-Extra from Justin McManus",
+  "keywords": [
+    "markdown",
+    "stackoverflow",
+    "pagedown",
+    "highlight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "demo/",
+    "local/",
+    "resources/",
+    "node-pagedown.js"
+  ],
+  "homepage": "https://github.com/bluishoul/PageDown",
+  "_release": "a8484a6fb5",
+  "_resolution": {
+    "type": "commit",
+    "commit": "a8484a6fb5a57869816c949757f7fcbe0bab743c"
+  },
+  "_source": "git://github.com/bluishoul/PageDown.git",
+  "_target": "a8484a6fb5a57869816c949757f7fcbe0bab743c",
+  "_originalSource": "git://github.com/bluishoul/PageDown"
+}
